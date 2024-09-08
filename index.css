@@ -1,0 +1,29 @@
+
+#calculator {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#display {
+    margin: 10px;
+    width: 85%;
+    font-size: 25px;
+}
+
+
+.buttion-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.buttion { 
+    background-color: white;
+    border: 1px solid grey;
+    width: 45px;
+    height: 45px;
+    margin: 3%;
+}
